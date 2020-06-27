@@ -1,5 +1,4 @@
 # STATS-503-Group-Project
-# STATS-507-Group-Project
 ## Winter 2020, UMich
 ### Thesis
 **Artworks Classification Problem**
